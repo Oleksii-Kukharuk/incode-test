@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/inCode-test/static/css/main.7acaea2f.css",
-    "main.js": "/inCode-test/static/js/main.43719612.js",
+    "main.js": "/inCode-test/static/js/main.b8a0b8ba.js",
     "index.html": "/inCode-test/index.html",
     "main.7acaea2f.css.map": "/inCode-test/static/css/main.7acaea2f.css.map",
-    "main.43719612.js.map": "/inCode-test/static/js/main.43719612.js.map"
+    "main.b8a0b8ba.js.map": "/inCode-test/static/js/main.b8a0b8ba.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.43719612.js"
+    "static/js/main.b8a0b8ba.js"
   ]
 }
