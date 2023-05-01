@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inCode-test/static/css/main.7acaea2f.css",
+    "main.js": "/inCode-test/static/js/main.43719612.js",
+    "index.html": "/inCode-test/index.html",
+    "main.7acaea2f.css.map": "/inCode-test/static/css/main.7acaea2f.css.map",
+    "main.43719612.js.map": "/inCode-test/static/js/main.43719612.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.43719612.js"
+  ]
+}
