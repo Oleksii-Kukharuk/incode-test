@@ -1,9 +1,9 @@
-import Form from './Form/Form';
+import IssuesForm from './Form/Form';
 
 export const App = () => {
   return (
     <div>
-      <Form></Form>
+      <IssuesForm></IssuesForm>
     </div>
   );
 };
